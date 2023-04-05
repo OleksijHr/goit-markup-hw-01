@@ -39,9 +39,9 @@
 
 
 /* header */
-.page-header{}
+/* .page-header{}
 
-.page-nav{}
+.page-nav{} */
 
 .header-logo{
 font-family: 'Raleway';
@@ -56,9 +56,9 @@ text-transform: uppercase;
     color: var(--primary-brand-clr);
 }
 
-.menu{}
+/* .menu{}
 
-.menu-item{}
+.menu-item{} */
 
 .menu-link{
     font-family: 'Roboto';
@@ -127,10 +127,9 @@ text-transform: uppercase;
 
 
 /* Features */
-.features-list{}
+/* .features-list{}
 
-.features-item{
-}
+.features-item{} */
 .features-name{
     font-family: 'Roboto';
     font-weight: 500;
@@ -154,9 +153,9 @@ text-transform: uppercase;
     color: var(--primary-text-dark-clr);
 }
 
-.options-list{}
+/* .options-list{}
 
-.option-item{}
+.option-item{} */
 
 
 /* Team */
@@ -168,11 +167,11 @@ text-transform: uppercase;
     color: var(--primary-text-dark-clr);
 }
 
-.team-lisst{}
+/* .team-lisst{}
 
 .team-item{}
 
-.team-pearson{}
+.team-pearson{} */
 
 .surename{
     font-family: 'Roboto';
